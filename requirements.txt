@@ -1,0 +1,11 @@
+jupyter
+numpy
+pandas
+scikit-learn
+tmdbv3api
+python-dotenv
+seaborn
+mlxtend
+plotly
+minisom
+networkx
