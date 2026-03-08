@@ -1,5 +1,5 @@
-# Big data project 2026
-# Big Data Project — MovieLens 100k
+# Big data project 2026 (MovieLens 100k)
+ 
 
 Knowledge Base Enrichment, Data Extraction, and Dimensionality Reduction using the MovieLens 100k dataset enriched with TMDB API.
 
