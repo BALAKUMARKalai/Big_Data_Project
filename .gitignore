@@ -1,1 +1,5 @@
 .env
+echo "df_tsne" >> .gitignore
+echo "notebook1.ipynb" >> .gitignore
+echo "requirements.txt" >> .gitignore
+echo "bin/" >> .gitignore
