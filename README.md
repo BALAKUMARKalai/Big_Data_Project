@@ -11,8 +11,8 @@ Knowledge Base Enrichment, Data Extraction, and Dimensionality Reduction using t
 │   ├── ratings.csv             # 100 836 user ratings
 │   ├── tags.csv                # User-generated tags
 │   ├── df_final.csv            # Enriched dataset (TMDB features)
-│   ├── df_tsne.csv             # t-SNE 2D projection
-│   ├── df_pca.csv              # PCA 2D projection
+│   ├── df_tsne.csv             # t-SNE projection
+│   ├── df_pca.csv              # PCA projection
 │   └── supergenres.csv         # Super-genre assignments
 │
 └── scripts/
